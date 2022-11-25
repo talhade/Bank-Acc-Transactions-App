@@ -1,6 +1,8 @@
 # Bank Acc UI
 
 A clone of [Capi Creative](https://dribbble.com/shots/19512457-Banking-DeFi-Mobile-App-Design-ConCept)'s UI design.
+
+
 Icons owners I have used in this project:
 - [reussy](https://www.flaticon.com/free-icon/add)
 - [Creatype](https://www.flaticon.com/free-icon/paw)
@@ -8,7 +10,10 @@ Icons owners I have used in this project:
 - [freepik](https://www.flaticon.com/free-icon/apple)
 - [Pixel Perfect](https://www.flaticon.com/free-icon/netflix)
 
-A new Flutter project.
+![splashscreenbankaccui](https://user-images.githubusercontent.com/114522498/204013019-69e4a235-4588-43b3-b411-5c4afcdb0812.png)
+![AnaEkranBankAccUI](https://user-images.githubusercontent.com/114522498/204013023-11ca791e-24c0-4b17-9c3b-1e9e8ffdbb66.png)
+![detailsscreenbankaccui](https://user-images.githubusercontent.com/114522498/204013026-dc1447be-d7e7-4e8d-aa42-ea4b4e031d05.png)
+
 
 ## Getting Started
 

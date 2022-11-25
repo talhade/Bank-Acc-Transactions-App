@@ -1,4 +1,6 @@
-# bank_acc_ui
+# Bank Acc UI
+
+A clone of [Capi Creative](https://dribbble.com/shots/19512457-Banking-DeFi-Mobile-App-Design-ConCept)'s UI design.
 
 A new Flutter project.
 

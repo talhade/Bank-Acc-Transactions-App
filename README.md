@@ -41,7 +41,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/bank-acc-transactions-app.git
+   git clone https://github.com/talhade/Bank-Acc-Transactions-App.git
 2. **Open in Your IDE**:  
    Open the project in your preferred IDE (such as Android Studio or VS Code).
 
